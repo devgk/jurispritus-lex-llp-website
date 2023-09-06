@@ -20,7 +20,7 @@
     "src": "node_modules/lightgallery/images/loading.gif"
   },
   "resources/js/app.js": {
-    "file": "assets/app-890319f2.js",
+    "file": "assets/app-836f7eb5.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
