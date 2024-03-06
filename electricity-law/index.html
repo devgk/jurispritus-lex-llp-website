@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="csrf-token" content="blHSD7HcqWiu5ZttV8EuRFK1YoITuezChDlFs9sn">
+    <meta name="csrf-token" content="2tls5w2v5DAN5VGPVBgJuJ6wGXht9yVZLpJCJkrR">
 
     <title>Electricity Law - Jurisperitus Lex LLP</title>
 
@@ -58,8 +58,11 @@
 				<table>
 					<tr>
 						<td class="text-light top-bar-block pe-4">
-							<i class="fa-regular fa-clock me-1"></i>
-							August 23, 2023
+							<span><i class="fa-regular fa-clock me-2"></i></span>
+							<span id="local-current-date">Month 99, 2000</span>
+							<script>
+								(() => {document.getElementById('local-current-date').textContent = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })})()
+							</script>
 						</td>
 						<td class="text-light top-bar-block pe-4">
 							<a href="tel:9051290512" class="text-light text-decoration-none">
@@ -109,10 +112,10 @@
                     <nav class="header-block header-primary-navigation">
                         <ul class="navigation text-capitalize">
                             <li class="navigation-item">
-                                <a class="navigation-link active" href="/">Home</a>
+                                <a class="navigation-link " href="/">Home</a>
                             </li>
                             <li class="navigation-item mega-menu-dropdown">
-                                <a class="navigation-link" href="#">Practice Area</a>
+                                <a class="navigation-link active" href="#">Practice Area</a>
 								<div class="dropdown-container mega-menu">
 									<div class="mega-menu-block">
 										<a class="sub-navigation-link" href="/civil-constitutional-litigation">Civil & Constitutional Litigation</a>
@@ -131,7 +134,7 @@
                                 </div>
                             </li>
                             <li class="navigation-item mega-menu-dropdown">
-                                <a class="navigation-link" href="#">Lawyers</a>
+                                <a class="navigation-link " href="#">Lawyers</a>
 								<div class="dropdown-container mega-menu">
 
 									<div class="mega-menu-block">
@@ -141,31 +144,34 @@
 										<a class="sub-navigation-link" href="/manish-kumar-choudhary">Manish Kumar Choudhary</a>
 										<a class="sub-navigation-link" href="/namita-choudhary">Namita Choudhary</a>
 										<a class="sub-navigation-link" href="/bhaskar-mishra">Bhaskar Mishra</a>
-
 									</div>
                                             
 									<div class="mega-menu-block">
 										<p class="mega-menu-heading">Associates</p>
 
-										<a class="sub-navigation-link" href="/kushagra-sinha">Kushagra Sinha</a>
-										<a class="sub-navigation-link" href="/rajlakshmi-singh">Rajlakshmi Singh</a>
-										<a class="sub-navigation-link" href="/himanshu-kumar-thakur">Himanshu Kumar Thakur</a>
+										
 										<a class="sub-navigation-link" href="/srishti-choudhary">Srishti Choudhary</a>
+										<a class="sub-navigation-link" href="/himanshu-kumar-thakur">Himanshu Kumar Thakur</a>
 									</div>
 
 									<div class="mega-menu-block">
 										<p class="mega-menu-heading">Consultants</p>
 
+										<a class="sub-navigation-link" href="/sanjay-kumar-mishra">Sanjay Kumar Mishra</a>
+										<a class="sub-navigation-link" href="/anil-kumar-gupta">Anil Kumar Gupta</a>
 										<a class="sub-navigation-link" href="/arbind-aggarwal">Arbind Aggarwal</a>
 									</div>
 
                                 </div>
                             </li>
-                            <li class="navigation-item">
-                                <a class="navigation-link" href="/picture-gallery">Gallery</a>
+							<li class="navigation-item">
+                                <a class="navigation-link " href="/empanelments">Empanelments</a>
                             </li>
                             <li class="navigation-item">
-                                <a class="navigation-link" href="/contact-us">Contact Us</a>
+                                <a class="navigation-link " href="/picture-gallery">Gallery</a>
+                            </li>
+                            <li class="navigation-item">
+                                <a class="navigation-link " href="/contact-us">Contact Us</a>
                             </li>
                         </ul>
                     </nav>
@@ -398,7 +404,7 @@
 		<div class="row">
 			<div class="col">
 				<p class="text-center m-0 p-0 opacity-50 text-light">
-					© Jurispritus Lex Llp 2023. All rights reserved.
+					© Jurispritus Lex Llp 2013 - 2024. All rights reserved.
 				</p>
 			</div>
 		</div>

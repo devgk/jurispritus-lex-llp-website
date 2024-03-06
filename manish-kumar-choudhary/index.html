@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="csrf-token" content="blHSD7HcqWiu5ZttV8EuRFK1YoITuezChDlFs9sn">
+    <meta name="csrf-token" content="2tls5w2v5DAN5VGPVBgJuJ6wGXht9yVZLpJCJkrR">
 
     <title>Manish Kumar Choudhary - Jurisperitus Lex LLP</title>
 
@@ -58,8 +58,11 @@
 				<table>
 					<tr>
 						<td class="text-light top-bar-block pe-4">
-							<i class="fa-regular fa-clock me-1"></i>
-							August 23, 2023
+							<span><i class="fa-regular fa-clock me-2"></i></span>
+							<span id="local-current-date">Month 99, 2000</span>
+							<script>
+								(() => {document.getElementById('local-current-date').textContent = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })})()
+							</script>
 						</td>
 						<td class="text-light top-bar-block pe-4">
 							<a href="tel:9051290512" class="text-light text-decoration-none">
@@ -109,10 +112,10 @@
                     <nav class="header-block header-primary-navigation">
                         <ul class="navigation text-capitalize">
                             <li class="navigation-item">
-                                <a class="navigation-link active" href="/">Home</a>
+                                <a class="navigation-link " href="/">Home</a>
                             </li>
                             <li class="navigation-item mega-menu-dropdown">
-                                <a class="navigation-link" href="#">Practice Area</a>
+                                <a class="navigation-link " href="#">Practice Area</a>
 								<div class="dropdown-container mega-menu">
 									<div class="mega-menu-block">
 										<a class="sub-navigation-link" href="/civil-constitutional-litigation">Civil & Constitutional Litigation</a>
@@ -131,7 +134,7 @@
                                 </div>
                             </li>
                             <li class="navigation-item mega-menu-dropdown">
-                                <a class="navigation-link" href="#">Lawyers</a>
+                                <a class="navigation-link active" href="#">Lawyers</a>
 								<div class="dropdown-container mega-menu">
 
 									<div class="mega-menu-block">
@@ -141,31 +144,34 @@
 										<a class="sub-navigation-link" href="/manish-kumar-choudhary">Manish Kumar Choudhary</a>
 										<a class="sub-navigation-link" href="/namita-choudhary">Namita Choudhary</a>
 										<a class="sub-navigation-link" href="/bhaskar-mishra">Bhaskar Mishra</a>
-
 									</div>
                                             
 									<div class="mega-menu-block">
 										<p class="mega-menu-heading">Associates</p>
 
-										<a class="sub-navigation-link" href="/kushagra-sinha">Kushagra Sinha</a>
-										<a class="sub-navigation-link" href="/rajlakshmi-singh">Rajlakshmi Singh</a>
-										<a class="sub-navigation-link" href="/himanshu-kumar-thakur">Himanshu Kumar Thakur</a>
+										
 										<a class="sub-navigation-link" href="/srishti-choudhary">Srishti Choudhary</a>
+										<a class="sub-navigation-link" href="/himanshu-kumar-thakur">Himanshu Kumar Thakur</a>
 									</div>
 
 									<div class="mega-menu-block">
 										<p class="mega-menu-heading">Consultants</p>
 
+										<a class="sub-navigation-link" href="/sanjay-kumar-mishra">Sanjay Kumar Mishra</a>
+										<a class="sub-navigation-link" href="/anil-kumar-gupta">Anil Kumar Gupta</a>
 										<a class="sub-navigation-link" href="/arbind-aggarwal">Arbind Aggarwal</a>
 									</div>
 
                                 </div>
                             </li>
-                            <li class="navigation-item">
-                                <a class="navigation-link" href="/picture-gallery">Gallery</a>
+							<li class="navigation-item">
+                                <a class="navigation-link " href="/empanelments">Empanelments</a>
                             </li>
                             <li class="navigation-item">
-                                <a class="navigation-link" href="/contact-us">Contact Us</a>
+                                <a class="navigation-link " href="/picture-gallery">Gallery</a>
+                            </li>
+                            <li class="navigation-item">
+                                <a class="navigation-link " href="/contact-us">Contact Us</a>
                             </li>
                         </ul>
                     </nav>
@@ -203,7 +209,8 @@
 					<h5 class="text-primary fw-bold mb-5"><em>Principal Partner</em></h5>
 
 					<p class="h2 text-dark-emphasis">Career</p>
-					<p class="text-justify text-dark-emphasis m-0">Manish has been practicing law since 1994. He has experience of handling various nature of cases, i.e. Civil, Criminal, Consumer, Arbitration, Company, Corporate, Service, Trademark and Patent etc. at various level starting from the Trial Courts up to the Hon’ble Supreme Court and also has the added experience of assisting the various leading senior advocates right from lower courts to the Hon’ble Supreme Court.</p>
+					<p class="text-justify text-dark-emphasis">Manish completed his LL.B. in the year 1994 from Campus Law Centre, Delhi University, and has been actively practicing for the past 24 years at the Supreme Court. In the course of overall period and practice, he had the occasion to interact and deal with various leading legal luminaries in the field of law and to name a few i.e. Dr. L.M. Singhvi, Dr. A.K. Sen, Sh. Ashok Desai, Sh. Soli Sorabjee, Sh. U.R. Lalit, Sh. Dushyant Dave, Sh. Arun Jaitley, Sh. R.F. Nariman, Sh. Mukul Rohatgi, Sh. Kapil Sibbal, Sh. P. Chidambram, etc. and assisted them in various cases. He is empanelled with various private concerns as well as to different Govt. bodies.</p>
+					<p class="text-justify text-dark-emphasis m-0">He has the experience of handling varied cases, viz: Civil, Criminal, Consumer, Arbitration, Company, Corporate, Service, Trademark and Patent, etc. at various levels starting from the lower Courts right up to the Hon’ble Supreme Court and has also the added experience of assisting the various leading Senior Advocates right from the lower Courts to the Hon’ble Supreme Court. </p>
 				</div>
 			</div>
 			<div class="col-4">
@@ -394,7 +401,7 @@
 		<div class="row">
 			<div class="col">
 				<p class="text-center m-0 p-0 opacity-50 text-light">
-					© Jurispritus Lex Llp 2023. All rights reserved.
+					© Jurispritus Lex Llp 2013 - 2024. All rights reserved.
 				</p>
 			</div>
 		</div>

@@ -1,23 +1,133 @@
-<?xml version='1.0' encoding='UTF-8'?><urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>https://www.jurisperituslexllp.com/</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/arbind-aggarwal</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/arbitration-alternate-dispute-resolution</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/ashutosh-kumar</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/banking-financial-documentation</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/bhaskar-mishra</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/civil-constitutional-litigation</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/contact-us</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/corporate-litigation</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/criminal-litigation</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/electricity-law</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/himanshu-kumar-thakur</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/information-technology-law-and-cyber-law</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/intellectual-property-law</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/kushagra-sinha</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/manish-kumar-choudhary</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/matrimonial-and-family-law</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/namita-choudhary</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/picture-gallery</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/rajlakshmi-singh</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/real-estate-and-infrastructure</loc></url>
-<url><loc>https://www.jurisperituslexllp.com/srishti-choudhary</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://www.jurisperituslexllp.com</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/generate-sitemap</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/civil-constitutional-litigation</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/criminal-litigation</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/banking-financial-documentation</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/corporate-litigation</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/real-estate-and-infrastructure</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/arbitration-alternate-dispute-resolution</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/information-technology-law-and-cyber-law</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/electricity-law</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/matrimonial-and-family-law</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/intellectual-property-law</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/ashutosh-kumar</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/manish-kumar-choudhary</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/namita-choudhary</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/bhaskar-mishra</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/kushagra-sinha</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/rajlakshmi-singh</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/himanshu-kumar-thakur</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/srishti-choudhary</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/sanjay-kumar-mishra</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/anil-kumar-gupta</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/arbind-aggarwal</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/empanelments</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/picture-gallery</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+    <url>
+        <loc>https://www.jurisperituslexllp.com/contact-us</loc>
+            <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+            </url>
+</urlset>
